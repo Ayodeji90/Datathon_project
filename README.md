@@ -98,13 +98,15 @@ Motivation for JAMB/WAEC
 Living Conditions
 Exam Status (Target Variable)
 
- DATA PROCESSING
+#### DATA PROCESSING
+
 Handling Missing Values: Missing values in categorical columns were filled appropriately (e.g., 'Moderate' for extracurricular involvement).
 Label Encoding: Categorical variables were encoded into numerical format using LabelEncoder for model compatibility.
 Train-Test Split: The data was split into 80% training and 20% testing using train_test_split.
 
 
- MODEL SELECTION
+#### MODEL SELECTION
+
 We utilized five machine learning models for this task:
 Logistic Regression
 Decision Tree Classifier
@@ -113,14 +115,16 @@ Support Vector Machine (SVM)
 Gradient Boosting Classifier
 
 
- MODEL TRAINING
+#### MODEL TRAINING
+
 Each model was trained using the preprocessed training data and 100% accuracy was acheived
 
  Here’s a brief on model settings:
 Logistic Regression: Used max_iter=1000 for convergence.
 Random Forest: Trained with 100 estimators (n_estimators=100).
 
-MODEL EVALUATION
+#### MODEL EVALUATION
+
 Each model was evaluated on the test set using:
 Confusion Matrix
 Classification Report (Precision, Recall, F1-Score, Accuracy)
