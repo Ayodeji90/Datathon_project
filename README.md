@@ -35,7 +35,7 @@ Academic records (exam scores, attendance)
 Socioeconomic status information
 Study habits and resource availability
 
- Observations on the PowerBI charts
+ #### Observations on the PowerBI charts
    1. Jamb scores by Attendance status
 Observation: The average jamb score of students with very poor attendance status is higher than student with regular attendance
 
