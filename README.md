@@ -14,11 +14,11 @@ We used a Questionnaire as the primary data collection method. The survey gather
 
 [Socioeconomic status,Learning environment and resources](https://forms.gle/iQ3k18PgESB5zfMf8)
 
-####Tools Used for Data Collection
+###Tools Used for Data Collection
 Google Forms: The questionnaire was distributed through Google Forms, which collected responses directly from students and educators.
 Google Sheets API: Responses were automatically fetched from Google Sheets, connected to the form, using the Google Sheets API.
 
-####Data Storage
+###Data Storage
 The collected data was stored in relational databases to allow for easy querying and analysis. We explored Google BigQuery for  storage solutions:
 
 Google BigQuery: Used for handling large-scale data due to its scalability and support for complex SQL queries.
