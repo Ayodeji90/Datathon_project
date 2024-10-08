@@ -82,7 +82,7 @@ Observation: Lower parental engagement with school/teachers is associated with s
 This aspect aims to predict students' exam status (pass/fail) based on various academic and personal factors using five different machine learning models. 
 The prediction helps identify students at risk and provides personalized advice to improve their exam outcomes.
 
-[Here is the python notebook]()
+[Here is the python notebook](https://github.com/Ayodeji90/Datathon_project/blob/main/Software_Engineering/Datathon/student_performance_analysis_and_prediction.ipynb)
 
  [DATASET](https://github.com/Ayodeji90/Datathon_project/blob/main/Software_Engineering/Datathon/data.csv)
 The dataset contains multiple features that impact student exam performance. Key features include:
