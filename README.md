@@ -79,7 +79,10 @@ Observation: Lower parental engagement with school/teachers is associated with s
 
 # Predicting Student Exam Performance Using Machine Learning
  OVERVIEW
-This aspect aims to predict students' exam status (pass/fail) based on various academic and personal factors using five different machine learning models. The prediction helps identify students at risk and provides personalized advice to improve their exam outcomes.
+This aspect aims to predict students' exam status (pass/fail) based on various academic and personal factors using five different machine learning models. 
+The prediction helps identify students at risk and provides personalized advice to improve their exam outcomes.
+
+[Here is the python notebook]()
 
  [DATASET](https://github.com/Ayodeji90/Datathon_project/blob/main/Software_Engineering/Datathon/data.csv)
 The dataset contains multiple features that impact student exam performance. Key features include:
@@ -125,4 +128,3 @@ All models achieved 100% accuracy, which was consistent across the test set, ind
 
 The trained models were saved as .pkl files for integration into future applications using the joblib library.
 
-This is the link to the repository of the code :  https://github.com/Ayodeji90/Datathon_project.git
